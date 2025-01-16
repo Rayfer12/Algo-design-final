@@ -2,9 +2,9 @@ import pygame
 import time
 import random
 import os
-import sys  # For memory measurement
+import sys  
 
-# Initialize pygame
+
 pygame.init()
 
 # Game Variables
