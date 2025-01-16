@@ -2,10 +2,10 @@ import pygame
 import time
 import random
 import os
-import sys  # For memory measurement
+import sys  
 from heapq import heappop, heappush
 
-# Initialize pygame
+
 pygame.init()
 
 # Game Variables
