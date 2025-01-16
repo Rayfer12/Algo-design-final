@@ -4,7 +4,7 @@ import random
 import os
 import sys
 
-# Initialize pygame
+
 pygame.init()
 print(sys.getsizeof(pygame.init()))
 
